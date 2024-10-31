@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/:country",
+      "destination": "/country/:country"
+    }
+  ]
+}
