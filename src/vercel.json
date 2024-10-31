@@ -1,7 +1,16 @@
 {
-
-"rewrites": [{ "source": "/(.*)", "destination": "/" }]
-
-
-
+    "version": 2,
+    "name": "around-the-world-mr",
+    "builds": [
+        {
+            "src": "index.js",
+            "use": "@vercel/node"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/index.js"
+        }
+    ]
 }
