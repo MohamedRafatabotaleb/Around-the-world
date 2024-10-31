@@ -6,7 +6,8 @@
 
 ### Screenshot
 
-![Project Screenshot](Screenshot.png)
+![Demo of the To-Do List Application](Screenshot_Animated.gif)
+
 
 ## ✨ Features
 
