@@ -4,7 +4,7 @@
 
 **Around the World** is an interactive web project aimed at providing comprehensive information about travel destinations around the globe. The project was developed using HTML, CSS, JavaScript, React, Tailwind CSS, and Vite, focusing on modern and interactive user interface design. It was created as part of my final project in a web development course.
 
-### Screenshot
+### Demo
 
 ![Demo of the To-Do List Application](Screenshot_Animated.gif)
 
